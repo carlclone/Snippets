@@ -1,17 +1,15 @@
 
 # Snippets
 
- A Small Project to contribute links to others.
+ A Small Project to create and fork code snippet.
 
 ## Finished
 
-* [x] Contribute a Link.
-* [x] Channels
-* [x] Trusted Users and Approved Links
-* [x] Flash Messaging and Modals
-* [x] Pagination and Channel Filtering
-* [x] Voting
-* [x] Sort by Most Popularity and Most Recent
+* [x] Create a snippet
+* [x] Fork a Snippet
+* [x] Display the origin of specified one
+* [x] Display the branch of specified one
+* [x] Code Highlight
 
 ## In Progress
 
@@ -21,4 +19,4 @@
 * [ ] Star Feature
 
 
-Made by Laravel,Bulma
+Made by Laravel,Bulma,Highlight.js
