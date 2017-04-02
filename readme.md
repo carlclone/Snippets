@@ -1,6 +1,8 @@
 
 # Snippets
 
+ A Small Project to contribute links to others.
+
 ## Finished
 
 * [x] Contribute a Link.
@@ -14,5 +16,9 @@
 ## In Progress
 
 * [ ] User System
+* [ ] Favorite
 * [ ] Leaderboard
 * [ ] Star Feature
+
+
+Made by Laravel,Bulma
